@@ -1,5 +1,9 @@
 # Projeto CSS - Desafio Dio.me
 
+---
+
+## 📸 Prévia
+
 ![Prévia do Projeto](assets/images/preview.png)
 > *Imagem ilustrativa da landing page estilizada com CSS.*
 
